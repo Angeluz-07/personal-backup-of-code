@@ -1,0 +1,17 @@
+.root{
+    -fx-background-color: #383838;
+}
+.button{
+    -fx-background-color: linear-gradient(to bottom left,#e96443,#904e95);
+    /*-fx-background-color:#AB4642;*/
+    -fx-text-fill: #e8e8e8;    
+    -fx-background-radius: 4;
+    -fx-border:10;
+}
+
+.label{
+    -fx-font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif;
+    -fx-font-size:25px;
+    -fx-font-weight:bold;
+    -fx-text-fill: #e8e8e8;
+}

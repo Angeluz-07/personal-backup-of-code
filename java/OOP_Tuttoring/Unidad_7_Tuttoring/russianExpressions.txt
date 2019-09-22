@@ -1,0 +1,7 @@
+Hello,Privet,Priviet
+My name is...,Menia zovut...,Miña zavut...
+Nice to meet you,Ochen priatno,Oshin priatna
+What's your name,Kak vac zovut,kak vazavut
+Please,Poshalucta,Pashalsta
+Thank you,Cpacibo,Spaciba
+Good bye,Do cvidania,Da svidania

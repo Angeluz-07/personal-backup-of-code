@@ -1,0 +1,19 @@
+Calculo Diferencial,ICM01941
+Calculo Diferencial,ICM02400
+Fisica A,ICF01099
+Quimica General I,ICQ00018
+Laboratorio de Fisica A,ICF01107
+Algebra Lineal,ICM00604
+Calculo Integral,ICM01958
+Calculo de Varias Variables,ICM01966
+Calculo de Varias Variables,ICM01956
+Ecuaciones Diferenciales,ICM01974
+Fisica C,ICF01131
+Laboratorio de Fisica C,ICF01149
+Estadistica,ICM00166
+Fundamentos de Programacion,FIEC04341
+Fundamentos de Programacion,FIEC05321
+Analisis de Redes Electricas I,FIEC01735
+Ingenieria Economica I,ICHE02675
+Matematicas Discretas,ICM00901
+Programacion Orientada a Objetas,FIEC04622

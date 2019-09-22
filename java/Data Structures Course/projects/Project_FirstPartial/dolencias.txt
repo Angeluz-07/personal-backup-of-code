@@ -1,0 +1,3 @@
+estres,mareos,dolor de cabeza,taquicardia
+diarrea,dolor abdominal,deshidratacion
+intoxicacion,vomito,falta de apetito,dolor abdominal

@@ -1,0 +1,4 @@
+0937633248,Alberto,masculino,A,BAJA,polen-acaros-peluza-camaron,intoxicacion-estres
+0948744359,Rosa,femenino,B,MEDIA,polvo-acetaminofen-mani,diarrea-intoxicacion
+0959855460,Karla,femenino,AB,URGENTE,acaros-aguacate-langosta,diarrea-estres
+0960966571,Julio,masculino,O,MEDIA,latex-aspirina,estres-intoxicacion-diarrea

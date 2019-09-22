@@ -1,0 +1,25 @@
+http://expertosdelinux.com/como-ver-los-archivos-de-registro-de-linux-en-tiempo-real/
+
+https://irisus90.wordpress.com/2012/06/20/comandos-tail-head-grep/
+
+http://linuxcommando.blogspot.com/2014/03/how-to-change-font-size-of-terminal.html
+
+https://cs162.eecs.berkeley.edu/
+
+https://www.howtogeek.com/199687/how-to-quickly-create-a-text-file-using-the-command-line-in-linux/>
+
+https://www.howtogeek.com/102468/a-beginners-guide-to-editing-text-files-with-vi/
+
+https://www.computerhope.com/unix/ugrep.htm
+
+https://www.lifewire.com/pass-arguments-to-bash-script-2200571
+
+http://linuxcommand.org/wss0110.php
+
+https://www.cyberciti.biz/faq/howto-compile-and-run-c-cplusplus-code-in-linux/
+
+https://www.programiz.com/c-programming/c-structure-function //pass a structure to a function
+
+mv old-file-name new-file-name
+
+alt gr+del+ \ to get \ in  linux ubuntu virtual machine

@@ -1,0 +1,4 @@
+0926211568,Ricardo,2472309,Otorrinologia
+0926212668,Betsy,2347689,Pediatria
+0924541569,Steven,0987945673,Urologia
+0934542529,Patricia,0887846674,Medicina General

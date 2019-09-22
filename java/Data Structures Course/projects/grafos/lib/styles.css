@@ -1,0 +1,44 @@
+node {
+
+	size: 30px;
+	shape:  circle;  /* box; rounded-box; diamond; cross;*/
+
+	fill-mode: gradient-vertical;   /* none;    */
+ 
+	fill-color: #29B8E5, #BCE0EE;    /* Default is black. */
+
+
+	stroke-mode:none;
+	stroke-width:5px;
+
+	text-size:12;
+	text-style:bold;
+	text-alignment:under;
+	
+
+}
+
+
+edge {
+
+	stroke-mode:plain;
+	stroke-width:1px;
+
+	text-alignment:under;
+	text-size:14;
+	text-style:bold;
+	text-background-mode:rounded-box;
+	text-background-color:white;
+}
+
+
+node:selected {
+	fill-color: red;
+}
+node:clicked {
+	fill-color: yellow;
+}
+node.marked {
+
+	fill-color: blue;
+}

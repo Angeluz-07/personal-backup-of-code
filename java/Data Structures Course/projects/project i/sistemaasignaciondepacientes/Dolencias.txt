@@ -1,0 +1,3 @@
+gripe,dolor de cabeza-estornudos-fiebre
+malestar,fiebre
+infeccion estomacal,vomito

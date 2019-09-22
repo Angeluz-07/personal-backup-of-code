@@ -1,0 +1,22 @@
+Alemania, Berlin, 3
+Argentina, BuenosAires, 2
+Belgica, Brucelas, 2
+Bolivia, Sucre, 3
+Brasil, Brasilia, 3
+Canada, Ottawa, 5
+Chile, SantiagodeChile, 2
+China, Beijing, 2
+Colombia, Bogota, 4
+Cuba, LaHabana, 3
+Ecuador, Quito, 3
+España, Madrid, 5
+Estados Unidos, WashingtonDC, 2
+Grecia, Atenas, 4
+Israel, Jerusalen, 5
+Marruecos, Rabat, 3
+Mexico, CiudaddeMexico, 4
+Peru, Lima, 5
+Paraguay, Asunción, 4
+Rusia, Moscu,3
+Turquia, Ankara, 5
+Venezuela, Caracas, 3

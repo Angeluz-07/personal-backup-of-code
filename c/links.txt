@@ -1,0 +1,28 @@
+https://www.ntu.edu.sg/home/ehchua/programming/cpp/gcc_make.html#zz-1.8
+
+http://www.cs.colby.edu/maxwell/courses/tutorials/maketutor/
+
+https://randu.org/tutorials/c/make.php
+
+https://techdifferences.com/difference-between-semaphore-and-monitor-in-os.html
+
+http://www.csc.villanova.edu/~mdamian/threads/posixsem.html
+
+**circular buffers**
+https://embeddedartistry.com/blog/2017/4/6/circular-buffers-in-cc
+http://www.xappsoftware.com/wordpress/2012/09/27/a-simple-implementation-of-a-circular-queue-in-c-language/
+https://www.equestionanswers.com/c/c-circular-buffer.php
+https://www.programiz.com/dsa/circular-queue
+https://www.embedded.com/electronics-blogs/embedded-round-table/4419407/The-ring-buffer
+
+** bash files **
+https://www.linuxjournal.com/content/bash-arrays
+https://www.cyberciti.biz/faq/unix-howto-read-line-by-line-from-file/
+https://unix.stackexchange.com/questions/213330/view-only-the-new-entries-in-a-growing-log-file
+https://askubuntu.com/questions/38661/how-do-i-run-sh-files
+https://unix.stackexchange.com/questions/29457/how-to-monitor-only-the-last-n-lines-of-a-log-file
+https://www.reddit.com/r/C_Programming/comments/3izgic/is_there_a_standard_folder_structure_for/
+https://www.linkedin.com/pulse/project-directory-structure-abhishek-arora/
+
+http://timetobleed.com/hello-world/
+http://csapp.cs.cmu.edu/3e/ics3/code/src/csapp.c

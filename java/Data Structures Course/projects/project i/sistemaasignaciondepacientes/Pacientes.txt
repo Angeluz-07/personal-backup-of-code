@@ -1,0 +1,8 @@
+0955443989,Miguel Andrade,M,A,urgente,polen-miel,gripe-malestar
+1345676654,Juan Cruz,M,O+,medio,chocolate-flores,infeccion estomacal-diarrea
+0933456798,Geancarlo Piguave,M,A,baja,mani-chancho,dolor de barriga-nauseas
+2675896977,Holguer Andrade,M,A,urgente,cerdo,nauseas
+1866979677,Pedro Ortiz,M,A,urgente,cerdo-miel,mareo
+0914259288,Paola Murillo,F,O+,baja,cerdo,nauseas
+0922345566,Manuel Alvarez,M,O-,medio,polen,dolor abdominal
+0925467788,Juan Mantovani,M,A,baja,polen,nauseas

@@ -1,0 +1,3 @@
+0945678332,Jorge Andrade,2987654,Urologo
+0977865098,Pepe Piguave,2776907,Venereologo
+0986554768,Juan Salazar,2435455,Medicina General 

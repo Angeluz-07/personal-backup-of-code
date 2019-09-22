@@ -1,0 +1,19 @@
+#return string ascii value from string hex sequence
+def hexToStr(hex_number):  
+  return codecs.decode(hex_number, "hex").decode('utf-8')  
+
+#return string hex sequence from string
+def strToHex(str_msg):
+  return str_msg.encode('utf-8').hex()
+
+#write a simple csv file
+import csv
+with open('mycsv.csv','w',newline='') as f :
+  thewriter=csv.writer(f)
+  thewriter.writerow(['col1','col2'])
+
+#random integer and float in range
+import random
+for x in range(10):
+  print (random.randint(1,10))
+  print (round(random.uniform(39,40.9), 1))#float with decimal precision
